@@ -1,0 +1,1 @@
+<?php echo latest('pic_list_popup','popup',1,'50');?>
